@@ -14,7 +14,7 @@ Videos:
 ## InfSi
 * [Lernkarten](http://www.cram.com/flashcards/infsi1-6903581)
 
-(Für fehler in den Karten bitte ein [Issue](https://github.com/raphiz/hsr-lernressourcen/issues))
+(Für Fehler in den Karten bitte ein [Issue](https://github.com/raphiz/hsr-lernressourcen/issues))
 
 ## AutoSpr
 
