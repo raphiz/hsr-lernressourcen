@@ -25,3 +25,6 @@ Videos:
 ## AD1
 
  * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
+  
+## WED1
+  * [What is Event Bubbling?](http://javascript.info/tutorial/bubbling-and-capturing)
