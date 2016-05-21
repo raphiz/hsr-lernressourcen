@@ -27,5 +27,6 @@ Videos:
  * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
   
 ## WED1
+### JavaScript
   * [Was ist Event Bubbling?](http://javascript.info/tutorial/bubbling-and-capturing)
   * [Unterschied Node / Document / Element](http://stackoverflow.com/questions/9979172/difference-between-node-object-and-element-object)
