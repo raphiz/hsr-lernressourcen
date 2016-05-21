@@ -21,3 +21,7 @@ Videos:
 * [The Halting Problem - Part 1](https://www.youtube.com/watch?v=dhs04ofFJPI)
 * [Proof That Computers Can't Do Everything (The Halting Problem)](https://www.youtube.com/watch?v=92WHN-pAFCs)
 * [Weitere Links in Moodle](https://moodle.hsr.ch/course/view.php?id=106)
+
+## AD1
+
+ * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
