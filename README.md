@@ -19,6 +19,7 @@ Videos:
 * [Lernkarten](http://www.cram.com/flashcards/infsi1-6903581)
 (Für Fehler in den Karten bitte ein [Issue](https://github.com/raphiz/hsr-lernressourcen/issues))
 * [What is Block Cipher and Stream Cipher](https://www.youtube.com/watch?v=E_3M41NrtsU)
+* [Block Cipher, an easy but detailed explanation](https://www.youtube.com/watch?v=-Gk9kaFoBxU)
 
 ## AutoSpr
 
