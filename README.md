@@ -4,6 +4,10 @@ In diesem Repository sollen (externe) Ressourcen für verschiedene Module an der
 
 ## Exev
 
+Websites:
+
+* [einfache Einführung in die Wahrscheinlichkeitsrechnung] (https://www.mathsisfun.com/data/index.html#probability)
+
 Videos:
 
 * [Kurzes Tutorium Statistik: Deskriptive Statistik ](https://www.youtube.com/playlist?list=PLH07H-nk4AF-tQcFuWz5Fp66SVMyFrBqt)
