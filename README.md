@@ -17,6 +17,7 @@ Videos:
 
 ## InfSi
 * [Lernkarten](http://www.cram.com/flashcards/infsi1-6903581)
+* [What is Block Cipher and Stream Cipher](https://www.youtube.com/watch?v=E_3M41NrtsU)
 
 (Für Fehler in den Karten bitte ein [Issue](https://github.com/raphiz/hsr-lernressourcen/issues))
 
