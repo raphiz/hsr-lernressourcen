@@ -36,3 +36,7 @@ Videos:
 ### JavaScript
   * [Was ist Event Bubbling?](http://javascript.info/tutorial/bubbling-and-capturing)
   * [Unterschied Node / Document / Element](http://stackoverflow.com/questions/9979172/difference-between-node-object-and-element-object)
+
+## AD1
+
+* [Skip-Listen](http://www.ottigers.com/index.php?content=skip.htm&rubrik=eth)
