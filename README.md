@@ -32,6 +32,7 @@ Videos:
 
  * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
  * [Skip-Listen](http://www.ottigers.com/index.php?content=skip.htm&rubrik=eth)
+ * [Java Algorithms YouTube Playlist](https://www.youtube.com/playlist?list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT)
   
 ## WED1
 ### JavaScript
