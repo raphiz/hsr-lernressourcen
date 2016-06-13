@@ -21,6 +21,7 @@ Videos:
 * [What is Block Cipher and Stream Cipher](https://www.youtube.com/watch?v=E_3M41NrtsU)
 * [Block Cipher, an easy but detailed explanation](https://www.youtube.com/watch?v=-Gk9kaFoBxU)
 * [TLS False Start explained](http://chimera.labs.oreilly.com/books/1230000000545/ch04.html#TLS_FALSE_START)
+* [Information Entropy](https://www.youtube.com/watch?v=2s3aJfRr9gE)
 
 ## AutoSpr
 
