@@ -24,7 +24,7 @@ Videos:
 * [Information Entropy](https://www.youtube.com/watch?v=2s3aJfRr9gE)
 
 ## Selbststudium
-* ["Zusammenfassung" WhatsApp](infSi/whatsapp.md)
+* ["Zusammenfassung" WhatsApp](infsi/whatsapp.md)
 
 ## AutoSpr
 
