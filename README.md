@@ -43,5 +43,6 @@ Videos:
 ### JavaScript
   * [Was ist Event Bubbling?](http://javascript.info/tutorial/bubbling-and-capturing)
   * [Unterschied Node / Document / Element](http://stackoverflow.com/questions/9979172/difference-between-node-object-and-element-object)
+ 
 ### Usability + User Centered Design
   * [Usability Methoden (Leseauftrag)](https://github.com/raphiz/hsr-lernressourcen/blob/master/Usability-Methoden.pdf)
