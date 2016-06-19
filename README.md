@@ -15,7 +15,7 @@ In diesem Repository sollen (externe) Ressourcen für verschiedene Module an der
 * [P vs. NP](https://youtu.be/YX40hbAHx3s)
 * [Weitere Links in Moodle](https://moodle.hsr.ch/course/view.php?id=106)
  
-## Bssys2
+## Bsys2
 
 * [Gute Erklärung zu Speicherverwaltung](http://vfhcab.oncampus.de/loop/Speicherverwaltung)
 
