@@ -13,6 +13,7 @@ In diesem Repository sollen (externe) Ressourcen für verschiedene Module an der
 * [The Halting Problem - Part 1](https://www.youtube.com/watch?v=dhs04ofFJPI)
 * [Proof That Computers Can't Do Everything (The Halting Problem)](https://www.youtube.com/watch?v=92WHN-pAFCs)
 * [P vs. NP](https://youtu.be/YX40hbAHx3s)
+* [CYK-Algorithmus](https://www.youtube.com/watch?v=GNHuct1Lj1E)
 * [Weitere Links in Moodle](https://moodle.hsr.ch/course/view.php?id=106)
  
 ## Bsys2
