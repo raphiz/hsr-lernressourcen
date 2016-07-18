@@ -48,6 +48,7 @@ In diesem Repository sollen (externe) Ressourcen für verschiedene Module an der
 * [TLS False Start explained](http://chimera.labs.oreilly.com/books/1230000000545/ch04.html#TLS_FALSE_START)
 * [Information Entropy](https://www.youtube.com/watch?v=2s3aJfRr9gE)
 * [Vigenère-Chiffre mit Verschlüsslungstabelle verschlüsseln](https://www.youtube.com/watch?v=SseaQvc0aXo)
+* [Notizen Vorbesprechung 19.07.16](https://github.com/raphiz/hsr-lernressourcen/blob/master/infsi/notizen_vorbesprechung.md)
 
 ### Selbststudium
 * ["Zusammenfassung" WhatsApp](infsi/whatsapp.md)
