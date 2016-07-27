@@ -60,7 +60,9 @@ In diesem Repository sollen (externe) Ressourcen für verschiedene Module an der
   * [Was ist Event Bubbling?](http://javascript.info/tutorial/bubbling-and-capturing)
   * [Unterschied Node / Document / Element](http://stackoverflow.com/questions/9979172/difference-between-node-object-and-element-object)
 
-##### AJAX
+### AJAX
+
+  * [Simple Erklärung und Anwendung](https://www.youtube.com/watch?v=fEYx8dQr_cQ)
  
 ### Usability + User Centered Design
 
