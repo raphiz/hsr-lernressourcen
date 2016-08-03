@@ -64,6 +64,7 @@ In diesem Repository sollen (externe) Ressourcen für verschiedene Module an der
 ### AJAX
 
   * [Simple Erklärung und Anwendung](https://www.youtube.com/watch?v=fEYx8dQr_cQ)
+  * [Handlebars Beispiel und Erklärung](https://www.youtube.com/watch?v=4HuAnM6b2d8)
  
 ### Usability + User Centered Design
 
