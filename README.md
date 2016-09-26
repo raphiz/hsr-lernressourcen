@@ -11,3 +11,4 @@ In diesem Repository sollen (externe) Ressourcen für verschiedene Module an der
 
 ### Node.JS
 * [module.export, good explanation](http://www.hacksparrow.com/node-js-exports-vs-module-exports.html)
+* [Stream Tutorial](https://www.tutorialspoint.com/nodejs/nodejs_streams.htm)
