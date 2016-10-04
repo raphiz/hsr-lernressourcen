@@ -7,6 +7,10 @@ In diesem Repository sollen (externe) Ressourcen für verschiedene Module an der
 * [Zusammenfassungen git.narcodex](https://git.narcodex.ch/hsr/summaries/tree/master)
 * [Zusammenfassungen studentenportal](https://studentenportal.ch/dokumente/)
 
+## AD2
+
+* [Visualisierung diverser Algorithmen](http://visualgo.net/)
+
 ## WED2
 
 ### Node.JS
