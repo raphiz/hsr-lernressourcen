@@ -17,3 +17,6 @@ In diesem Repository sollen (externe) Ressourcen für verschiedene Module an der
 ### Node.JS
 * [module.export well explained](http://www.hacksparrow.com/node-js-exports-vs-module-exports.html)
 * [Stream Tutorial with very good explanation](https://www.tutorialspoint.com/nodejs/nodejs_streams.htm)
+
+## MGE
+* [Diverse Android Guides](https://github.com/codepath/android_guides/wiki#structure)
